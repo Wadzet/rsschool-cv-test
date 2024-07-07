@@ -1,2 +1,2 @@
 # rsschool-cv
-https://GITHUB-USERNAME.github.io/rsschool-cv/cv, где вместо GITHUB-USERNAME
+https://Wadzet.github.io/rsschool-cv/cv
