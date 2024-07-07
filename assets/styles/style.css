@@ -45,6 +45,34 @@ nav ul li a {
     color: #333;
 }
 
+main {
+    flex: 1;
+    padding: 1em;
+    max-width: 800px;
+    margin: auto;
+}
+
+section {
+    margin-bottom: 2em;
+}
+
+section h2 {
+    border-bottom: 2px solid #bebbbb;
+    padding-bottom: 0.5em;
+}
+
+pre {
+    background: #F1F1F1FF;
+    padding: 1em;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+code {
+    font-family: 'Courier New', Courier, monospace;
+    color: #333;
+}
+
 footer p {
     margin: 0.5em 0;
 }
